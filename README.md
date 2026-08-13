@@ -1,5 +1,5 @@
-# Zombie Apocalypse Tech
+# ZACOS
 
-Website for Zombie Apocalypse Tech. Implemented with [Hugo](https://gohugo.io/).
+Website for ZACOS. Implemented with [Hugo](https://gohugo.io/).
 
 Vaya con Dios...
